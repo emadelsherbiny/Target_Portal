@@ -1,0 +1,172 @@
+/*
+================================================
+Common CSS
+================================================
+*/
+.left-line:before {
+	background: #ed1c24;
+}
+.left-line {
+	background: #ed1c24;
+}
+.right-line:before {
+	background: #ed1c24;
+}
+.right-line {
+	background: #ed1c24;
+}
+.btn {
+	border: 2px solid #ed1c24;
+}
+.btn:before {
+	background-color: #ed1c24;
+}
+#switcher .theme-click {
+	background-color: #ed1c24;
+}
+/*
+================================================
+Scroll top Arrow
+================================================
+*/
+#scrollUp i:hover {
+	background: #ed1c24;
+	color:#fff;
+}
+/*
+================================================
+Logo
+================================================
+*/
+
+/*
+================================================
+Navigation
+================================================
+*/
+.header-top-area {
+	background: #ed1c24;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+	background-color: #bd1e26;
+	color: #fff;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+	color: #fff;
+	background-color: #bd1e26;
+}
+.menu-bg .navbar-default .navbar-nav li a:hover {
+	color: #fff;
+	background-color: #bd1e26;
+}
+/*
+================================================
+Banner Content
+================================================
+*/
+.banner-content .btn:before {
+	background: #ed1c24;
+}
+.banner-content .btn {
+	color: #ed1c24;
+	border: 1px solid #ed1c24;
+}
+.banner-content .btn:hover, .banner-content .btn:focus, .banner-content .btn:active {
+	color: #000;
+}
+/*
+================================================
+About Us
+================================================
+*/
+.readmore {
+	color: #ed1c24;
+	border: 1px solid #ed1c24;
+}
+.readmore:before {
+	background: #ed1c24;
+}
+.readmore:hover, .readmore:focus, .readmore:active {
+	color: #000;
+	border: 1px solid #ed1c24;
+}
+.readmore:hover:before, .readmore:focus:before, .readmore:active:before {
+	border: 1px solid #ed1c24;
+}
+.we-do > ul li i {
+	color: #ed1c24;
+}
+.progress-bar {
+ background-color: #ed1c24;
+}
+/*
+================================================
+about us
+================================================
+*/
+.aboutus .btn {
+	color: #ed1c24;
+}
+/*
+================================================
+Services
+================================================
+*/
+.service-callouts .service-box i.fa {
+	color: #ed1c24;
+}		
+/*
+================================================
+Testimonials Wrapper 
+================================================
+*/	
+.testimonial-img > i {
+	background: #ed1c24;
+}
+.testimonial-rating li i {
+	color: #ed1c24;
+}
+.testimonials-wrapper .carousel-indicators .active {
+	background: #ed1c24;
+}
+.textimonial-text > i {
+	color: #ed1c24;
+}
+
+/*
+================================================
+Pricing Table
+================================================
+*/
+.pricing-table-wrapper .pricing-price {
+	box-shadow: 0 0 0 8px #ffffff inset, 0 0 5px 0 rgba(237, 28, 36, 0.34);
+	background: #ed1c24;
+}
+.pricing-table-wrapper .btn {
+	color: #ed1c24;
+	border-color:#ed1c24;
+}
+/*
+================================================
+Our Team
+================================================
+*/	
+.our-team .team-box .social li > a {
+	color: #ed1c24;
+}
+/*
+================================================
+Contact us
+================================================
+*/
+.contactus .btn {
+	color:#ed1c24;
+	}
+.contact-form .fa {
+  color: #ed1c24;
+}
+.contact-address .contact-info .contact-icon {
+	color: #ed1c24;
+}
+
+	
